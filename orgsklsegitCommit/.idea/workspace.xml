@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cc67e93-8bdd-4b7f-8c27-855d6d2fc0b1" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/orgsklsegitCommit$GitService.ic" NAME="GitService Coverage Results" MODIFIED="1540374198052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1R5jx0oHEYwP3rYH8Pmbb4ITupn" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555814003755" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/style" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/style" />
+      <recent name="$PROJECT_DIR$/semantic" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="D:\Git\orgsklsegitCommit" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/commit" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GitService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GitService" />
+      <module name="orgsklsegitCommit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GitService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../mbrowse" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sbt-example-paradise" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala_project/finagle" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala_project/fpinscala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala_project/gatling" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala_project/gitbucket" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala_project/lila" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala_project/playframework/framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala_project/scala" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cc67e93-8bdd-4b7f-8c27-855d6d2fc0b1" name="Default" comment="" />
+      <created>1540269715842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540269715842</updated>
+      <workItem from="1540269722050" duration="29526000" />
+      <workItem from="1540468068159" duration="643000" />
+      <workItem from="1540774106513" duration="9369000" />
+      <workItem from="1540810666768" duration="610000" />
+      <workItem from="1540811687479" duration="668000" />
+      <workItem from="1540813114592" duration="3562000" />
+      <workItem from="1540897038933" duration="4809000" />
+      <workItem from="1540949543037" duration="14000" />
+      <workItem from="1540958377947" duration="1280000" />
+      <workItem from="1540974218168" duration="1845000" />
+      <workItem from="1541032911193" duration="165000" />
+      <workItem from="1541505380498" duration="5759000" />
+      <workItem from="1541554356294" duration="5273000" />
+      <workItem from="1541564997501" duration="6478000" />
+      <workItem from="1541683024838" duration="718000" />
+      <workItem from="1542016354057" duration="8652000" />
+      <workItem from="1542033191731" duration="2958000" />
+      <workItem from="1542104985076" duration="5100000" />
+      <workItem from="1542115007086" duration="234000" />
+      <workItem from="1542197099863" duration="1437000" />
+      <workItem from="1542557719511" duration="5280000" />
+      <workItem from="1542609630349" duration="7012000" />
+      <workItem from="1542644193252" duration="4207000" />
+      <workItem from="1542692618563" duration="2252000" />
+      <workItem from="1543291215611" duration="968000" />
+      <workItem from="1544257625382" duration="1368000" />
+      <workItem from="1544261321678" duration="203000" />
+      <workItem from="1544261583913" duration="2143000" />
+      <workItem from="1544280547800" duration="12999000" />
+      <workItem from="1544408910579" duration="12590000" />
+      <workItem from="1544458126446" duration="959000" />
+      <workItem from="1544511872128" duration="464000" />
+      <workItem from="1544528201045" duration="737000" />
+      <workItem from="1544537425692" duration="1045000" />
+      <workItem from="1544660566033" duration="1736000" />
+      <workItem from="1544679701937" duration="1302000" />
+      <workItem from="1544783401054" duration="8999000" />
+      <workItem from="1544876950102" duration="1152000" />
+      <workItem from="1544885895952" duration="689000" />
+      <workItem from="1545017606131" duration="7733000" />
+      <workItem from="1545187570053" duration="3095000" />
+      <workItem from="1545231160570" duration="1585000" />
+      <workItem from="1545274129742" duration="11647000" />
+      <workItem from="1545380315037" duration="4676000" />
+      <workItem from="1545549295548" duration="4310000" />
+      <workItem from="1545574841711" duration="913000" />
+      <workItem from="1545636084922" duration="7456000" />
+      <workItem from="1545795987432" duration="5779000" />
+      <workItem from="1545821798836" duration="10000" />
+      <workItem from="1545824972049" duration="553000" />
+      <workItem from="1546341451498" duration="6000" />
+      <workItem from="1546418814422" duration="34000" />
+      <workItem from="1546595076362" duration="676000" />
+      <workItem from="1546914592046" duration="4846000" />
+      <workItem from="1547126147698" duration="4623000" />
+      <workItem from="1547207885355" duration="8354000" />
+      <workItem from="1547258976619" duration="22076000" />
+      <workItem from="1547432521541" duration="353000" />
+      <workItem from="1547553247083" duration="44000" />
+      <workItem from="1548257579072" duration="3013000" />
+      <workItem from="1548326538033" duration="3016000" />
+      <workItem from="1548342765921" duration="4621000" />
+      <workItem from="1548422373308" duration="6649000" />
+      <workItem from="1548858466643" duration="3025000" />
+      <workItem from="1548941746957" duration="14938000" />
+      <workItem from="1551751919065" duration="4688000" />
+      <workItem from="1551847654586" duration="108000" />
+      <workItem from="1551847787140" duration="93000" />
+      <workItem from="1551887690827" duration="3135000" />
+      <workItem from="1551931032082" duration="5336000" />
+      <workItem from="1552046767817" duration="728000" />
+      <workItem from="1553135017954" duration="12975000" />
+      <workItem from="1553232029816" duration="1585000" />
+      <workItem from="1553392864404" duration="3142000" />
+      <workItem from="1553400049073" duration="2864000" />
+      <workItem from="1553415799242" duration="8553000" />
+      <workItem from="1553504698361" duration="736000" />
+      <workItem from="1553846933919" duration="1107000" />
+      <workItem from="1554278305851" duration="9086000" />
+      <workItem from="1554458841086" duration="2998000" />
+      <workItem from="1554703220030" duration="1841000" />
+      <workItem from="1554890453192" duration="2823000" />
+      <workItem from="1555229599896" duration="112000" />
+      <workItem from="1555229945799" duration="3387000" />
+      <workItem from="1555295570803" duration="168000" />
+      <workItem from="1555297033635" duration="1155000" />
+      <workItem from="1555314196415" duration="7304000" />
+      <workItem from="1555405438540" duration="5354000" />
+      <workItem from="1555725352835" duration="25635000" />
+      <workItem from="1556242903933" duration="1922000" />
+      <workItem from="1568964095412" duration="15365000" />
+      <workItem from="1569119802145" duration="2927000" />
+      <workItem from="1569131671640" duration="6174000" />
+      <workItem from="1569143569478" duration="1197000" />
+      <workItem from="1569154703762" duration="3754000" />
+      <workItem from="1569218953016" duration="246000" />
+      <workItem from="1569326937262" duration="11711000" />
+      <workItem from="1569417084428" duration="29302000" />
+      <workItem from="1569760227864" duration="326000" />
+      <workItem from="1571400803104" duration="23000" />
+      <workItem from="1580133870175" duration="41000" />
+      <workItem from="1582875927645" duration="167000" />
+      <workItem from="1583326356193" duration="379000" />
+      <workItem from="1583378171812" duration="53533000" />
+      <workItem from="1583722596429" duration="100000" />
+      <workItem from="1583722702035" duration="5234000" />
+      <workItem from="1583754206517" duration="9891000" />
+      <workItem from="1583811628376" duration="4748000" />
+      <workItem from="1583831250426" duration="7525000" />
+      <workItem from="1583894029433" duration="17277000" />
+      <workItem from="1584110040535" duration="11760000" />
+      <workItem from="1584973299745" duration="183000" />
+      <workItem from="1586219193926" duration="1628000" />
+      <workItem from="1586531820623" duration="592000" />
+      <workItem from="1590223870092" duration="27000" />
+      <workItem from="1596077847475" duration="55000" />
+      <workItem from="1596420825484" duration="314000" />
+      <workItem from="1598947894993" duration="36000" />
+      <workItem from="1606187237525" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>737</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>738</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>740</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>245</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>248</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>291</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>231</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>230</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="id==2063" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>988</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1009</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1126</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1133</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1157</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1122</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1232</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1234</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1244</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1171</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1222</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1223</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1124</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1278</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1287</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1288</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1339</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1340</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1342</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>1344</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>974</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>838</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>830</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GitService.java</url>
+          <line>832</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>id==2063</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>id</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hasAuthor==true</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>orgsklsegitCommit</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.googlecode.javaewah:JavaEWAH:1.1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
